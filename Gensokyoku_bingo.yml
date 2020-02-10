@@ -1,0 +1,168 @@
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: まいなす
+        numbers:
+          - '149'
+          - '294'
+          - '495'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: もりすま
+        numbers:
+          - '214'
+          - '565'
+          - '693'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: VIPteru
+        numbers:
+          - '195'
+          - '820'
+          - '895'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: ainan
+        numbers:
+          - '220'
+          - '099'
+          - '694'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: かぜ
+        numbers:
+          - '236'
+          - '216'
+          - '494'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: フクタ
+        numbers:
+          - '217'
+          - '130'
+          - '095'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: aine
+        numbers:
+          - '371'
+          - '692'
+          - '406'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: あお
+        numbers:
+          - '185'
+          - '388'
+          - '090'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: HARU
+        numbers:
+          - '219'
+          - '182'
+          - '495'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: のあ
+        numbers:
+          - '199'
+          - '910'
+          - '890'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: マリー
+        numbers:
+          - '239'
+          - '381'
+          - '697'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: いと
+        numbers:
+          - '822'
+          - '992'
+          - '967'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: ふむふか
+        numbers:
+          - '222'
+          - '541'
+          - '693'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: あのます
+        numbers:
+          - '256'
+          - '645'
+          - '696'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: paper
+        numbers:
+          - '681'
+          - '508'
+          - '928'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: スフレ
+        numbers:
+          - '255'
+          - '531'
+          - '694'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: なとり
+        numbers:
+          - '112'
+          - '489'
+          - '436'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: ぎん
+        numbers:
+          - '316'
+          - '438'
+          - '096'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: ちえぽよ
+        numbers:
+          - '316'
+          - '470'
+          - '896'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: ナギ
+        numbers:
+          - '316'
+          - '459'
+          - '694'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: まお
+        numbers:
+          - '324'
+          - '520'
+          - '092'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: 異聞
+        numbers:
+          - '138'
+          - '949'
+          - '290'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: マカロン
+        numbers:
+          - '237'
+          - '834'
+          - '095'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: フェルトボタン
+        numbers:
+          - '568'
+          - '376'
+          - '978'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: ryunak
+        numbers:
+          - '381'
+          - '004'
+          - '897'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: 濃いめの紅茶
+        numbers:
+          - '231'
+          - '907'
+          - '297'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: 影琉
+        numbers:
+          - '289'
+          - '057'
+          - '297'
+- !!bot.Command.GensokyokuBingo$bingoCard
+        name: 夏樹
+        numbers:
+          - '376'
+          - '574'
+          - '898'
